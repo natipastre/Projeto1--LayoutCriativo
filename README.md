@@ -1,8 +1,12 @@
 # 💻 Layout Criativo - Projeto 1
 
 Est# 💻 Layout Criativo - Projeto 1
+.
+
+📚 Projeto realizado durante o curso de Front-End da plataforma Udemy, como parte do processo de aprendizado e prática de desenvolvimento web.
 
 Este projeto consiste em um layout de site desenvolvido com **HTML** e **CSS puro**, com foco em design visual, responsividade e uso de imagem de fundo. É uma ótima prática para iniciantes que desejam melhorar suas habilidades de estruturação e estilização de páginas web.
+
 
 ## 🌐 Acesse o site
 
