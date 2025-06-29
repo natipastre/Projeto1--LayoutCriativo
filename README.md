@@ -4,7 +4,7 @@
 
 Este projeto consiste em um layout de site desenvolvido com **HTML** e **CSS puro**, com foco em design visual, responsividade e uso de imagem de fundo. É uma ótima prática para iniciantes que desejam melhorar suas habilidades de estruturação e estilização de páginas web.
 
-✨ Veja abaixo uma prévia do projeto em funcionamento:
+✨ Veja abaixo uma prévia do projeto :
 
 <p align="center">
   <img src="https://i.postimg.cc/fk4wtGyP/projeto.png" alt="Layout Criativo - prévia do projeto" width="700"/>
